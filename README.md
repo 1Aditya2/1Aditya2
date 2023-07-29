@@ -1,4 +1,4 @@
-### Hi👋 My name is Aditya Yadav
+### Hi👋 My name is Aditya Yadav and that's digital art of my linkedin profile picture
 ### MERN STACK DEVELOPER
 
 - 🔭 I’m currently working on E-Commerce Application and Chat Application with Auto Predict and Auto Translate
