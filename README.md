@@ -1,5 +1,5 @@
 ### Hi👋 My name is Aditya Yadav.
-### The profile picture is made by foto.com
+### :point_left: The profile picture is made by foto.com
 ### MERN STACK DEVELOPER
 
 - 🔭 I’m currently working on E-Commerce Application and Chat Application with Auto Predict and Auto Translate
