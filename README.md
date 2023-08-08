@@ -1,4 +1,5 @@
-### Hi👋 My name is Aditya Yadav and that's digital art of my linkedin profile picture
+### Hi👋 My name is Aditya Yadav.
+### The profile picture is made by foto.com
 ### MERN STACK DEVELOPER
 
 - 🔭 I’m currently working on E-Commerce Application and Chat Application with Auto Predict and Auto Translate
