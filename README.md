@@ -2,7 +2,7 @@
 ### :point_left: Digital art of me
 ### MERN STACK DEVELOPER
 
-- 🔭 I’m currently working on E-Commerce Application and Chat Application with Auto Predict and Auto Translate
+- 🔭 I’m currently working on Chat Application with Auto Predict and Auto Translate
 - 🌱 Learning React js
 - 📫 Contact me here: yadiyadav515@gmail.com
 - 🌍 I am based in Agra
