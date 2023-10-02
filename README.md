@@ -1,5 +1,4 @@
 ### Hi👋 My name is Aditya Yadav.
-### :point_left: Digital art of me
 ### MERN STACK DEVELOPER
 
 - 🔭 I’m currently working on Chat Application with Auto Predict and Auto Translate
